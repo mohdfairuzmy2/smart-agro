@@ -4,6 +4,12 @@ Prototaip aplikasi mudah-alih (mobile-first) berdasarkan kertas cadangan **Inisi
 
 > *"Maklumat tepat, hasil meningkat, risiko berkurang, petani lebih bersedia."*
 
+## Demo live
+
+**https://mohdfairuzmy2.github.io/smart-agro/**
+
+Dibina automatik dari branch `main` melalui GitHub Actions. API luar (METMalaysia, OpenDOSM) mungkin disekat CORS pada domain GitHub Pages — app akan guna data demo/rujukan sebagai sandaran.
+
 ## Modul yang Disiapkan
 
 | # | Modul | Skrin |
@@ -16,7 +22,7 @@ Prototaip aplikasi mudah-alih (mobile-first) berdasarkan kertas cadangan **Inisi
 | 6 | Analitik Permintaan & Bekalan | Pasaran |
 | 7 | Dashboard Pemantauan Pertanian | Utama |
 
-**Navigasi:** Utama · Kalendar · Amaran · Pasaran · Profil
+**Navigasi:** Utama · Kalendar · Amaran · Analisis · Pasaran · Profil · Info Sistem (desktop)
 
 ## Ciri Utama
 
@@ -78,8 +84,10 @@ Satu aplikasi, dua pengalaman mengikut saiz skrin (breakpoint `md` = 768px):
 
 ```bash
 npm install
-npm run dev      # pelayan pembangunan
-npm run build    # bina untuk produksi
+npm run dev           # pelayan pembangunan
+npm run build         # bina untuk produksi
+npm run build:pages   # bina untuk GitHub Pages (/smart-agro/)
+npm run preview:pages # pratonton build Pages secara tempatan
 ```
 
 ## Struktur

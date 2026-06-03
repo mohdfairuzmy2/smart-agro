@@ -6,6 +6,7 @@ import {
   SYSTEM_CIRI,
   SYSTEM_MANFAAT,
   SYSTEM_MODUL,
+  SYSTEM_DEMO_LIVE_URL,
   SYSTEM_NOTA_PROTOTAIP,
   SYSTEM_OBJEKTIF,
   SYSTEM_SUMBER_API,
@@ -61,6 +62,14 @@ export default function SystemInfo() {
         <p className="text-xs font-bold uppercase tracking-wider text-white/70">Visi ringkas</p>
         <p className="mt-2 text-lg font-semibold italic md:text-xl">&ldquo;{SYSTEM_TAGLINE}&rdquo;</p>
         <p className="mt-3 text-sm text-white/85">{SYSTEM_NOTA_PROTOTAIP}</p>
+        <a
+          href={SYSTEM_DEMO_LIVE_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 inline-flex rounded-xl bg-white/20 px-4 py-2 text-sm font-bold text-white hover:bg-white/30"
+        >
+          Buka demo live →
+        </a>
       </div>
 
       <nav className="card flex flex-wrap gap-2 p-4">

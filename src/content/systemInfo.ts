@@ -56,5 +56,7 @@ export const SYSTEM_SUMBER_API = [
   { data: 'Sensor IoT, rekod musim, watak demo', sumber: 'Senario demonstrasi SMART AGRO', jenis: 'demo' as const },
 ];
 
+export const SYSTEM_DEMO_LIVE_URL = 'https://mohdfairuzmy2.github.io/smart-agro/';
+
 export const SYSTEM_NOTA_PROTOTAIP =
   'Ini prototaip MVP — bukan sistem pengoperasian ladang rasmi. Sahkan harga, cuaca lapangan dan nasihat agronomi dengan pegawai / pasar tempatan sebelum keputusan muktamad.';
