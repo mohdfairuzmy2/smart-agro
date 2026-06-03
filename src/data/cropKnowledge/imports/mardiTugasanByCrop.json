@@ -1,0 +1,1399 @@
+{
+  "meta": {
+    "sumber": "MARDI myAgriManager — Jadual Aktiviti Agronomi",
+    "url": "https://www.mardi.gov.my/myagrimanager",
+    "dikemaskini": "2026-06-03"
+  },
+  "byCrop": {
+    "cili-merah": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 45,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 90,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "timun": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 35,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 70,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "sawi": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 15,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 30,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kangkung": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 15,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 30,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "bayam": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 15,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 30,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "terung": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 50,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 100,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "tomato": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 45,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 90,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kobis": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 43,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 85,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kubis-cina": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 30,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 60,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "labu-manis": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 55,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 110,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kacang-panjang": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 33,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 65,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kacang-bendi": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 35,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 70,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "salad": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 28,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 55,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "brokoli": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 43,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 85,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "jagung-manis": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 38,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 75,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "padi-mr297": {
+      "varieti": "MR297",
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 20,
+          "aktiviti": "Pembajaan Baja 1 (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 45,
+          "aktiviti": "Pembajaan Baja 2",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 52,
+          "aktiviti": "Kawalan rumpai",
+          "jenis": "racun",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 56,
+          "aktiviti": "Pemantauan paras air (~5 cm)",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 115,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MR297 ~110–120 hari"
+        }
+      ]
+    },
+    "nanas": {
+      "varieti": "MD2 / N36",
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penanaman suckers",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 90,
+          "aktiviti": "Pembajaan NPK",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 180,
+          "aktiviti": "Pemangkasan daun",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 420,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri"
+        }
+      ]
+    },
+    "pisang": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 150,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 300,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "tembikai": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 45,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 90,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "durian": {
+      "varieti": "Musang King / D24",
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penanaman anak benih",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 365,
+          "aktiviti": "Pembajaan tahunan",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 1825,
+          "aktiviti": "Tuaian pertama (anggaran)",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri"
+        }
+      ]
+    },
+    "rambutan": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 183,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 365,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "manggis": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 183,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 365,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kelapa": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 913,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 1825,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kelapa-sawit": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 730,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 1460,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "tebu": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 183,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 365,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "halia": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 135,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 270,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "serai": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 60,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 120,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "bawang-merah": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 45,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 90,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "ubi-kentang": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 50,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 100,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "ubi-kayu": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 135,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 270,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "lada-hitam": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 548,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 1095,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "limau-purut": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 183,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 365,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "rockmelon": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 45,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 90,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "cili-padi": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 38,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 75,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "labu-kuning": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 55,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 110,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "kacang-tanah": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 60,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 120,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "bawang-putih": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 60,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 120,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    },
+    "sengkuang": {
+      "varieti": null,
+      "tugasan": [
+        {
+          "hariRelatif": 0,
+          "aktiviti": "Penyediaan tanah & parit",
+          "jenis": "tanam",
+          "sumber": "doa_perak"
+        },
+        {
+          "hariRelatif": 7,
+          "aktiviti": "Penanaman / pindah stok",
+          "jenis": "tanam",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 21,
+          "aktiviti": "Pembajaan susulan (NPK)",
+          "jenis": "baja",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 75,
+          "aktiviti": "Pemantauan perosak & penyakit",
+          "jenis": "pemantauan",
+          "sumber": "mardi_myagri"
+        },
+        {
+          "hariRelatif": 150,
+          "aktiviti": "Tuaian",
+          "jenis": "tuaian",
+          "sumber": "mardi_myagri",
+          "catatan": "MARDI myAgriManager"
+        }
+      ],
+      "sumber": "mardi_myagri"
+    }
+  },
+  "jumlah": 38
+}

@@ -1,0 +1,23 @@
+{
+  "tanaman": "Padi",
+  "varieti": "MR297",
+  "sumber": "Jadual agronomi MARDI (kurasi MVP)",
+  "nota": "Tempoh matang ~110–120 hari. Sesuaikan ikut varieti & musim sebenar.",
+  "fasa": [
+    { "nama": "Penyediaan", "hariMula": 0, "hariTamat": 10 },
+    { "nama": "Anak Benih", "hariMula": 10, "hariTamat": 25 },
+    { "nama": "Vegetatif", "hariMula": 25, "hariTamat": 55 },
+    { "nama": "Reproduktif", "hariMula": 55, "hariTamat": 85 },
+    { "nama": "Matang", "hariMula": 85, "hariTamat": 115 },
+    { "nama": "Tuaian", "hariMula": 115, "hariTamat": 120 }
+  ],
+  "tugasanTemplat": [
+    { "hariRelatif": 0, "aktiviti": "Penanaman anak benih", "jenis": "tanam", "catatan": "MR297 · 120 kg benih/ha" },
+    { "hariRelatif": 20, "aktiviti": "Pembajaan Baja 1", "jenis": "baja", "catatan": "NPK 15:15:15" },
+    { "hariRelatif": 28, "aktiviti": "Siraman / parit dibersihkan", "jenis": "siraman" },
+    { "hariRelatif": 45, "aktiviti": "Pembajaan Baja 2 (NPK)", "jenis": "baja", "catatan": "2 minggu selepas Baja 1" },
+    { "hariRelatif": 52, "aktiviti": "Kawalan rumpai padang", "jenis": "racun" },
+    { "hariRelatif": 56, "aktiviti": "Pemantauan paras air sawah", "jenis": "pemantauan", "catatan": "Kekal ~5 cm" },
+    { "hariRelatif": 115, "aktiviti": "Tuaian", "jenis": "tuaian" }
+  ]
+}

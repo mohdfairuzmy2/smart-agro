@@ -1,0 +1,939 @@
+{
+  "meta": {
+    "sumber": "DOA Perak — Panduan Teknologi & Penanaman (kurasi SMART AGRO)",
+    "url": "https://pertanianperak.doa.gov.my",
+    "rujukan": "Jabatan Pertanian Negeri Perak · Buku Panduan Penanaman",
+    "dikemaskini": "2026-06-03"
+  },
+  "byCrop": {
+    "cili-merah": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Tanah gembur; parit 30 cm; baja organik 3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak 75×25 cm; naungan awal 30%.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Pembajaan",
+          "keterangan": "NPK 15:15:15 — 100 kg/ha asas; top dressing N pada fasa berbunga.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Kawalan perosak",
+          "keterangan": "IPM thrips & antraknos; sembur ikut ambang ekonomi.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "timun": {
+      "jarakTanam": "1.2 m × 0.4 m (bertajuk)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Tajuk & jarak",
+          "keterangan": "Tajuk 1.5 m; jarak 40 cm dalam baris.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "sawi": {
+      "jarakTanam": "15 cm × 20 cm",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Semai 7 hari (UPM); pindah ke bed",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penanaman sawi",
+          "keterangan": "Pindah stok 7 hari semai; jarak rapat 15×20 cm.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kangkung": {
+      "jarakTanam": "10 cm × 15 cm (tebar / stek)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penanaman kangkung",
+          "keterangan": "Tanam stek atau benih terus di bed lembap.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "bayam": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "terung": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "tomato": {
+      "jarakTanam": "1.0 m × 0.4 m",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan",
+          "keterangan": "Tajuk 1.2 m; pendebungaan terbantu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kobis": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kubis-cina": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "labu-manis": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kacang-panjang": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kacang-bendi": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "salad": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "brokoli": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "jagung-manis": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "padi-mr297": {
+      "jarakTanam": "20 cm × 20 cm (tebar benih) atau 25×25 cm (pindah)",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Sawah tabur/pindah; paras air 5–10 cm fasa vegetatif",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan sawah",
+          "keterangan": "Perataan & parit; baja organik 2 t/ha.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman MR297",
+          "keterangan": "Benih 40–60 kg/ha; umur anak benih 14–21 hari (pindah).",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pengurusan air",
+          "keterangan": "Kering 7–10 hari sebelum tuaian; kawalan bena perang.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "nanas": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "pisang": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "tembikai": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "durian": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "rambutan": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "manggis": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kelapa": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kelapa-sawit": {
+      "jarakTanam": "9 m × 9 m (triangular)",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penanaman sawit",
+          "keterangan": "Anak benih bersertifikat; lubang 60×60 cm.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "tebu": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "halia": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "serai": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "bawang-merah": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "ubi-kentang": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "ubi-kayu": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "lada-hitam": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "limau-purut": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "rockmelon": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "cili-padi": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "labu-kuning": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "kacang-tanah": {
+      "jarakTanam": "75 cm × 25 cm",
+      "kedalamanBenih": "2–3 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "bawang-putih": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    },
+    "sengkuang": {
+      "jarakTanam": "30 cm × 20 cm (baris)",
+      "kedalamanBenih": "0.5–1 cm",
+      "penyediaanTanah": "Bajak/rujak, parit saliran, pH 5.5–6.5, baja organik 2–3 t/ha",
+      "sop": [
+        {
+          "langkah": 1,
+          "tajuk": "Penyediaan tanah",
+          "keterangan": "Jarak & parit ikut DOA Perak; tanah gembur bebas rumpai.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 2,
+          "tajuk": "Penanaman",
+          "keterangan": "Benih/stok sihat; kedalaman ikut spesies.",
+          "sumber": "doa_perak"
+        },
+        {
+          "langkah": 3,
+          "tajuk": "Pembajaan & IPM",
+          "keterangan": "Baja berperingkat; kawalan perosak bersepadu.",
+          "sumber": "doa_perak"
+        }
+      ],
+      "sumber": "doa_perak"
+    }
+  },
+  "jumlah": 38
+}

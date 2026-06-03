@@ -1,0 +1,1124 @@
+{
+  "meta": {
+    "sumber": "GeoTanih / DOA — Kesesuaian Tanah & Klasifikasi",
+    "url": "https://geotanih.doa.gov.my",
+    "dikemaskini": "2026-06-03"
+  },
+  "soilClasses": {
+    "Tanah liat berpasir": {
+      "kod": "BRIS/LAPANG",
+      "skorAsas": 78
+    },
+    "Tanah gembur": {
+      "kod": "LEMBAH/INCEPT",
+      "skorAsas": 88
+    },
+    "Tanah subur": {
+      "kod": "LEMBAH",
+      "skorAsas": 90
+    },
+    "Tanah lembap": {
+      "kod": "ALLUVIAL",
+      "skorAsas": 85
+    },
+    "Tanah liat": {
+      "kod": "GRUMUSOL",
+      "skorAsas": 82
+    },
+    "Tanah liat berlumpur": {
+      "kod": "GRUMUSOL",
+      "skorAsas": 84
+    },
+    "Tanah berpasir": {
+      "kod": "BRIS",
+      "skorAsas": 65
+    },
+    "Tanah gambut": {
+      "kod": "GAMBUT",
+      "skorAsas": 55
+    },
+    "Tanah laterit": {
+      "kod": "FERROSOL",
+      "skorAsas": 72
+    },
+    "Tanah kering": {
+      "kod": "BRUNT",
+      "skorAsas": 58
+    },
+    "Tanah masin": {
+      "kod": "BRIS",
+      "skorAsas": 45
+    },
+    "Tanah berbatu": {
+      "kod": "LITHOSOL",
+      "skorAsas": 50
+    }
+  },
+  "byCrop": {
+    "cili-merah": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        },
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "timun": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "sawi": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kangkung": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah lembap",
+          "skor": 85,
+          "kod": "ALLUVIAL"
+        },
+        {
+          "jenis": "Tanah liat",
+          "skor": 82,
+          "kod": "GRUMUSOL"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah kering",
+          "skor": 30,
+          "kod": "BRUNT"
+        },
+        {
+          "jenis": "Tanah berpasir",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "bayam": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "terung": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "tomato": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kobis": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kubis-cina": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "labu-manis": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kacang-panjang": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kacang-bendi": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "salad": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "brokoli": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "jagung-manis": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "padi-mr297": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah liat berlumpur",
+          "skor": 84,
+          "kod": "GRUMUSOL"
+        },
+        {
+          "jenis": "Tanah lembap",
+          "skor": 85,
+          "kod": "ALLUVIAL"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah berpasir",
+          "skor": 30,
+          "kod": "BRIS"
+        },
+        {
+          "jenis": "Tanah kering",
+          "skor": 30,
+          "kod": "BRUNT"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "nanas": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "pisang": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "tembikai": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "durian": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah laterit",
+          "skor": 72,
+          "kod": "FERROSOL"
+        },
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "rambutan": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "manggis": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kelapa": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kelapa-sawit": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah laterit",
+          "skor": 72,
+          "kod": "FERROSOL"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah berbatu",
+          "skor": 30,
+          "kod": "LITHOSOL"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "tebu": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "halia": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "serai": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "bawang-merah": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "ubi-kentang": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "ubi-kayu": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "lada-hitam": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "limau-purut": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "rockmelon": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "cili-padi": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "labu-kuning": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "kacang-tanah": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "bawang-putih": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    },
+    "sengkuang": {
+      "tanahSesuai": [
+        {
+          "jenis": "Tanah gembur",
+          "skor": 88,
+          "kod": "LEMBAH/INCEPT"
+        },
+        {
+          "jenis": "Tanah liat berpasir",
+          "skor": 78,
+          "kod": "BRIS/LAPANG"
+        }
+      ],
+      "tanahKurangSesuai": [
+        {
+          "jenis": "Tanah gambut",
+          "skor": 30,
+          "kod": "GAMBUT"
+        },
+        {
+          "jenis": "Tanah masin",
+          "skor": 30,
+          "kod": "BRIS"
+        }
+      ],
+      "notaGeoTanih": "Kesesuaian berdasarkan klas tanah DOA / GeoTanih",
+      "sumber": "geotanih"
+    }
+  },
+  "jumlah": 38
+}

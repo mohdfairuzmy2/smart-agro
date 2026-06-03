@@ -1,0 +1,683 @@
+{
+  "meta": {
+    "sumber": "UPM Program Buku Hijau (AFS 2001) — Siri 1: Pengeluaran Sayur-Sayuran",
+    "url": "https://sarawak.upm.edu.my/upload/dokumen/20180626114146Modul_SIRI_1.pdf",
+    "rujukanTambahan": "Jadual 45 jenis tempoh matang sayuran (panduan latihan)",
+    "dikemaskini": "2026-06-03",
+    "jumlahSayurDalamRepo": 21,
+    "jumlahSenaraiUpm": 29,
+    "kumpulan": {
+      "daun": {
+        "min": 21,
+        "max": 28,
+        "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang"
+      },
+      "buah": {
+        "min": 60,
+        "max": 90,
+        "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang"
+      },
+      "ubi": {
+        "min": 60,
+        "max": 120,
+        "nota": "UPM: sayur ubi/umbisi 2–4 bulan"
+      },
+      "kekacang": {
+        "min": 45,
+        "max": 60,
+        "nota": "UPM: sayur kekacang ~45–60 hari"
+      },
+      "bawang": {
+        "min": 70,
+        "max": 120,
+        "nota": "UPM: sayur bawang 70–120 hari"
+      }
+    }
+  },
+  "byCrop": {
+    "bayam": {
+      "namaMs": "Bayam",
+      "namaEn": "Amaranth",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "Modul UPM: 3–4 minggu di ladang",
+      "petikanUpm": "Modul UPM: 3–4 minggu di ladang",
+      "sumber": "upm_sayur"
+    },
+    "sawi": {
+      "namaMs": "Sawi",
+      "namaEn": "Caixin / Pak Choy",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 7,
+      "nota": "UPM: semai 7 hari sebelum pindah ladang",
+      "petikanUpm": "UPM: semai 7 hari sebelum pindah ladang",
+      "sumber": "upm_sayur"
+    },
+    "kangkung": {
+      "namaMs": "Kangkung",
+      "namaEn": "Water Spinach",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "Modul UPM: 3–4 minggu di ladang",
+      "petikanUpm": "Modul UPM: 3–4 minggu di ladang",
+      "sumber": "upm_sayur"
+    },
+    "salad": {
+      "namaMs": "Salad (Lettuce)",
+      "namaEn": "Lettuce",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 35,
+        "max": 45
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "kobis": {
+      "namaMs": "Kobis",
+      "namaEn": "Cabbage",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 75
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "kubis-cina": {
+      "namaMs": "Kubis Cina / Pak Choi",
+      "namaEn": "Pak Choy",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 7,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "brokoli": {
+      "namaMs": "Brokoli",
+      "namaEn": "Broccoli",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 55,
+        "max": 100
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "timun": {
+      "namaMs": "Timun",
+      "namaEn": "Cucumber",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 40,
+        "max": 55
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "tomato": {
+      "namaMs": "Tomato",
+      "namaEn": "Tomato",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 90
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "terung": {
+      "namaMs": "Terung",
+      "namaEn": "Eggplant",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 65,
+        "max": 80
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "cili-merah": {
+      "namaMs": "Cili Merah",
+      "namaEn": "Red Pepper",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 90
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "cili-padi": {
+      "namaMs": "Cili Padi",
+      "namaEn": "Hot Pepper",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 75
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "labu-manis": {
+      "namaMs": "Labu Manis",
+      "namaEn": "Pumpkin",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 110
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "labu-kuning": {
+      "namaMs": "Labu Kuning",
+      "namaEn": "Squash",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 110
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "kacang-panjang": {
+      "namaMs": "Kacang Panjang",
+      "namaEn": "Yard Long Bean",
+      "kumpulan": "kekacang",
+      "tempohMatangHari": {
+        "min": 40,
+        "max": 50
+      },
+      "hariSemaianSebelumLadang": 10,
+      "nota": "UPM: sayur kekacang ~45–60 hari",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "kacang-bendi": {
+      "namaMs": "Kacang Bendi",
+      "namaEn": "Okra",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 45,
+        "max": 60
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "bawang-merah": {
+      "namaMs": "Bawang Merah",
+      "namaEn": "Onion",
+      "kumpulan": "bawang",
+      "tempohMatangHari": {
+        "min": 70,
+        "max": 90
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur bawang 70–120 hari",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "bawang-putih": {
+      "namaMs": "Bawang Putih",
+      "namaEn": "Garlic",
+      "kumpulan": "bawang",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 120
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur bawang 70–120 hari",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "ubi-kentang": {
+      "namaMs": "Ubi Kentang",
+      "namaEn": "Potato",
+      "kumpulan": "ubi",
+      "tempohMatangHari": {
+        "min": 80,
+        "max": 100
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur ubi/umbisi 2–4 bulan",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "sengkuang": {
+      "namaMs": "Sengkuang",
+      "namaEn": "Jicama",
+      "kumpulan": "ubi",
+      "tempohMatangHari": {
+        "min": 120,
+        "max": 150
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur ubi/umbisi 2–4 bulan",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    "serai": {
+      "namaMs": "Serai",
+      "namaEn": "Lemongrass",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 120
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "Herba — tempoh tuai batang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    }
+  },
+  "senarai": [
+    {
+      "namaMs": "Bayam",
+      "namaEn": "Amaranth",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "Modul UPM: 3–4 minggu di ladang",
+      "petikanUpm": "Modul UPM: 3–4 minggu di ladang",
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Sawi",
+      "namaEn": "Caixin / Pak Choy",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 7,
+      "nota": "UPM: semai 7 hari sebelum pindah ladang",
+      "petikanUpm": "UPM: semai 7 hari sebelum pindah ladang",
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kangkung",
+      "namaEn": "Water Spinach",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "Modul UPM: 3–4 minggu di ladang",
+      "petikanUpm": "Modul UPM: 3–4 minggu di ladang",
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Salad (Lettuce)",
+      "namaEn": "Lettuce",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 35,
+        "max": 45
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kobis",
+      "namaEn": "Cabbage",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 75
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kubis Cina / Pak Choi",
+      "namaEn": "Pak Choy",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 25,
+        "max": 30
+      },
+      "hariSemaianSebelumLadang": 7,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Brokoli",
+      "namaEn": "Broccoli",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 55,
+        "max": 100
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Timun",
+      "namaEn": "Cucumber",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 40,
+        "max": 55
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Tomato",
+      "namaEn": "Tomato",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 90
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Terung",
+      "namaEn": "Eggplant",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 65,
+        "max": 80
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Cili Merah",
+      "namaEn": "Red Pepper",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 90
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Cili Padi",
+      "namaEn": "Hot Pepper",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 75
+      },
+      "hariSemaianSebelumLadang": 21,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Labu Manis",
+      "namaEn": "Pumpkin",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 110
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Labu Kuning",
+      "namaEn": "Squash",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 110
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kacang Panjang",
+      "namaEn": "Yard Long Bean",
+      "kumpulan": "kekacang",
+      "tempohMatangHari": {
+        "min": 40,
+        "max": 50
+      },
+      "hariSemaianSebelumLadang": 10,
+      "nota": "UPM: sayur kekacang ~45–60 hari",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kacang Bendi",
+      "namaEn": "Okra",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 45,
+        "max": 60
+      },
+      "hariSemaianSebelumLadang": 14,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Bawang Merah",
+      "namaEn": "Onion",
+      "kumpulan": "bawang",
+      "tempohMatangHari": {
+        "min": 70,
+        "max": 90
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur bawang 70–120 hari",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Bawang Putih",
+      "namaEn": "Garlic",
+      "kumpulan": "bawang",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 120
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur bawang 70–120 hari",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Ubi Kentang",
+      "namaEn": "Potato",
+      "kumpulan": "ubi",
+      "tempohMatangHari": {
+        "min": 80,
+        "max": 100
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur ubi/umbisi 2–4 bulan",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Sengkuang",
+      "namaEn": "Jicama",
+      "kumpulan": "ubi",
+      "tempohMatangHari": {
+        "min": 120,
+        "max": 150
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur ubi/umbisi 2–4 bulan",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Serai",
+      "namaEn": "Lemongrass",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 90,
+        "max": 120
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "Herba — tempoh tuai batang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kailan",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 45,
+        "max": 45
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Ketumbar",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 45,
+        "max": 50
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Peria",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 60
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Petola",
+      "kumpulan": "buah",
+      "tempohMatangHari": {
+        "min": 45,
+        "max": 45
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur buah 60–90 hari selepas pindah ke ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Lobak Putih",
+      "kumpulan": "ubi",
+      "tempohMatangHari": {
+        "min": 50,
+        "max": 50
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur ubi/umbisi 2–4 bulan",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Lobak Merah (Carrot)",
+      "kumpulan": "ubi",
+      "tempohMatangHari": {
+        "min": 60,
+        "max": 60
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur ubi/umbisi 2–4 bulan",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kacang Kelisa",
+      "kumpulan": "kekacang",
+      "tempohMatangHari": {
+        "min": 50,
+        "max": 50
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur kekacang ~45–60 hari",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    },
+    {
+      "namaMs": "Kubis Bunga (Cauliflower)",
+      "kumpulan": "daun",
+      "tempohMatangHari": {
+        "min": 65,
+        "max": 65
+      },
+      "hariSemaianSebelumLadang": 0,
+      "nota": "UPM: sayur daun biasanya 3–4 minggu di ladang",
+      "petikanUpm": null,
+      "sumber": "upm_sayur"
+    }
+  ]
+}

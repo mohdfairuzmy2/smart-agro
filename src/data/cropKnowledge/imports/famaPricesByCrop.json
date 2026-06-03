@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "sumber": "FAMA / MyHargaTani — Harga Pasaran (rujukan kurasi)",
+    "url": "https://www.fama.gov.my/info-data-terbuka-fama",
+    "nota": "Ganti dengan API data.gov.my apabila id katalog disahkan",
+    "dikemaskini": "2026-06-03"
+  },
+  "byCrop": {
+    "cili-merah": {
+      "komoditi": "Cili Merah",
+      "hargaRm": 9.8,
+      "unit": "kg",
+      "gred": "Gred A",
+      "pasar": "Pasar Borong Selangor",
+      "perubahanPct": 4.3,
+      "sejarah": [
+        8.2,
+        8.6,
+        8.4,
+        9,
+        9.3,
+        9.4,
+        9.8
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "cili-merah"
+    },
+    "timun": {
+      "komoditi": "Timun",
+      "hargaRm": 2.5,
+      "unit": "kg",
+      "gred": "Gred A",
+      "pasar": "Pasar Borong Selangor",
+      "perubahanPct": -0.5,
+      "sejarah": [
+        2.6,
+        2.55,
+        2.5,
+        2.5,
+        2.52,
+        2.48,
+        2.5
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "timun"
+    },
+    "sawi": {
+      "komoditi": "Sawi (Caisim)",
+      "hargaRm": 3.2,
+      "unit": "kg",
+      "gred": "Segar",
+      "pasar": "Pasar Borong Selangor",
+      "perubahanPct": 1.5,
+      "sejarah": [
+        2.9,
+        3,
+        3,
+        3.1,
+        3.1,
+        3.15,
+        3.2
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "sawi"
+    },
+    "kangkung": {
+      "komoditi": "Kangkung",
+      "hargaRm": 2.8,
+      "unit": "kg",
+      "gred": "Segar",
+      "pasar": "Pasar Tani Kajang",
+      "perubahanPct": 2,
+      "sejarah": [
+        2.5,
+        2.6,
+        2.6,
+        2.7,
+        2.7,
+        2.75,
+        2.8
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "kangkung"
+    },
+    "bayam": {
+      "komoditi": "Bayam",
+      "hargaRm": 4.5,
+      "unit": "kg",
+      "gred": "Segar",
+      "pasar": "Pasar Tani Kajang",
+      "perubahanPct": 3.1,
+      "sejarah": [
+        4,
+        4.1,
+        4.2,
+        4.2,
+        4.3,
+        4.4,
+        4.5
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "bayam"
+    },
+    "terung": {
+      "komoditi": "Terung",
+      "hargaRm": 3.8,
+      "unit": "kg",
+      "gred": "Gred A",
+      "pasar": "Pasar Borong Selangor",
+      "perubahanPct": 1.2,
+      "sejarah": [
+        3.5,
+        3.6,
+        3.6,
+        3.7,
+        3.75,
+        3.78,
+        3.8
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "terung"
+    },
+    "tomato": {
+      "komoditi": "Tomato",
+      "hargaRm": 3.4,
+      "unit": "kg",
+      "gred": "Gred B",
+      "pasar": "Pasar Borong Selangor",
+      "perubahanPct": -1.8,
+      "sejarah": [
+        3.8,
+        3.7,
+        3.6,
+        3.5,
+        3.6,
+        3.5,
+        3.4
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "tomato"
+    },
+    "jagung-manis": {
+      "komoditi": "Jagung Manis",
+      "hargaRm": 2.1,
+      "unit": "kg",
+      "gred": "Gred A",
+      "pasar": "Pasar Tani Kajang",
+      "perubahanPct": 0.9,
+      "sejarah": [
+        1.9,
+        2,
+        2,
+        2.05,
+        2,
+        2.05,
+        2.1
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "jagung-manis"
+    },
+    "padi-mr297": {
+      "komoditi": "Padi (Beras Super)",
+      "hargaRm": 1580,
+      "unit": "tan",
+      "gred": "Gred A",
+      "pasar": "Purata Kebangsaan",
+      "perubahanPct": 2.6,
+      "sejarah": [
+        1490,
+        1505,
+        1520,
+        1510,
+        1535,
+        1560,
+        1580
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "padi-mr297"
+    },
+    "nanas": {
+      "komoditi": "Nanas",
+      "hargaRm": 2,
+      "unit": "kg",
+      "gred": "Gred A",
+      "pasar": "Pasar Borong Johor",
+      "perubahanPct": 1,
+      "sejarah": [
+        1.85,
+        1.9,
+        1.9,
+        1.95,
+        1.95,
+        1.98,
+        2
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "nanas"
+    },
+    "pisang": {
+      "komoditi": "Pisang",
+      "hargaRm": 2.4,
+      "unit": "kg",
+      "gred": "Gred A",
+      "pasar": "Pasar Borong Selangor",
+      "perubahanPct": 0.5,
+      "sejarah": [
+        2.2,
+        2.25,
+        2.3,
+        2.3,
+        2.35,
+        2.38,
+        2.4
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "pisang"
+    },
+    "durian": {
+      "komoditi": "Durian (Musang King)",
+      "hargaRm": 28,
+      "unit": "kg",
+      "gred": "Gred A",
+      "pasar": "Pasar Borong Raub",
+      "perubahanPct": 5,
+      "sejarah": [
+        24,
+        25,
+        26,
+        26,
+        27,
+        27.5,
+        28
+      ],
+      "peringkat": "borong",
+      "sumber": "fama",
+      "cropId": "durian"
+    }
+  },
+  "jumlah": 12
+}

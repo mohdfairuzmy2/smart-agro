@@ -1,0 +1,585 @@
+{
+  "meta": {
+    "sumber": "PlantVillage Dataset",
+    "url": "https://www.tensorflow.org/datasets/catalog/plant_village",
+    "versi": "1.0.2",
+    "jumlahKelas": 38,
+    "dikemaskini": "2026-06-03",
+    "nota": "38 kelas rasmi; dipetakan ke cropId SMART AGRO mengikut spesies"
+  },
+  "byCrop": {
+    "tomato": [
+      {
+        "id": "pv-apple-apple-scab",
+        "nama": "Apple Scab (Kudis)",
+        "simptom": "Bintik zaitun pada daun dan buah",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; buang daun teruk",
+        "plantVillageLabel": "Apple___Apple_scab",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-apple-black-rot",
+        "nama": "Apple Black Rot",
+        "simptom": "Daun dan buah reput hitam",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Sanitasi canopi; fungisan",
+        "plantVillageLabel": "Apple___Black_rot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-apple-cedar-apple-rust",
+        "nama": "Cedar Apple Rust",
+        "simptom": "Bintik jingga pada daun",
+        "tahapRisiko": "rendah",
+        "tindakan": "Buang hospes alternatif",
+        "plantVillageLabel": "Apple___Cedar_apple_rust",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-apple-healthy",
+        "nama": "Daun Sihat (Apple)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Apple___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-cherry-healthy",
+        "nama": "Daun Sihat (Cherry)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Cherry___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-cherry-powdery-mildew",
+        "nama": "Powdery Mildew",
+        "simptom": "Serbuk putih pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid sulfur",
+        "plantVillageLabel": "Cherry___Powdery_mildew",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-peach-bacterial-spot",
+        "nama": "Bacterial Spot",
+        "simptom": "Bintik kecil pada daun dan buah",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Racun kuprum; varieti tahan",
+        "plantVillageLabel": "Peach___Bacterial_spot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-peach-healthy",
+        "nama": "Daun Sihat (Peach)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Peach___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-strawberry-healthy",
+        "nama": "Daun Sihat (Strawberry)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Strawberry___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-strawberry-leaf-scorch",
+        "nama": "Leaf Scorch",
+        "simptom": "Hujung daun kering kehitaman",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Kawal penyiraman",
+        "plantVillageLabel": "Strawberry___Leaf_scorch",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-bacterial-spot",
+        "nama": "Bacterial Spot (Tomato)",
+        "simptom": "Bintik kecil hitam pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Racun kuprum",
+        "plantVillageLabel": "Tomato___Bacterial_spot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-early-blight",
+        "nama": "Early Blight (Tomato)",
+        "simptom": "Bintik coklat berkoncentrik",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; buang daun bawah",
+        "plantVillageLabel": "Tomato___Early_blight",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-healthy",
+        "nama": "Daun Sihat (Tomato)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Tomato___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-tomato-late-blight",
+        "nama": "Late Blight (Tomato)",
+        "simptom": "Bercak hitam lembap, reput cepat",
+        "tahapRisiko": "tinggi",
+        "tindakan": "Fungisid segera; ventilasi",
+        "plantVillageLabel": "Tomato___Late_blight",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-leaf-mold",
+        "nama": "Leaf Mold",
+        "simptom": "Hijau pucat pada permukaan atas",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Kurangkan kelembapan rumah",
+        "plantVillageLabel": "Tomato___Leaf_Mold",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-septoria-leaf-spot",
+        "nama": "Septoria Leaf Spot",
+        "simptom": "Bintik bulat kelabu kecil",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; buang daun bawah",
+        "plantVillageLabel": "Tomato___Septoria_leaf_spot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-spider-mites-two-spotted-spider-mite",
+        "nama": "Spider Mites",
+        "simptom": "Daun bertompok kuning, jaring halus",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Racun mitisida; kelembapan",
+        "plantVillageLabel": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-target-spot",
+        "nama": "Target Spot",
+        "simptom": "Bintik berkoncentrik seperti sasaran",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid",
+        "plantVillageLabel": "Tomato___Target_Spot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-tomato-mosaic-virus",
+        "nama": "Mosaic Virus",
+        "simptom": "Corak mozek hijau-kuning",
+        "tahapRisiko": "tinggi",
+        "tindakan": "Basmi pokok; kawal vektor",
+        "plantVillageLabel": "Tomato___Tomato_mosaic_virus",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-tomato-tomato-yellow-leaf-curl-virus",
+        "nama": "Yellow Leaf Curl Virus",
+        "simptom": "Daun keriting kuning ke atas",
+        "tahapRisiko": "tinggi",
+        "tindakan": "Kawal whitefly; varieti tahan",
+        "plantVillageLabel": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      }
+    ],
+    "jagung-manis": [
+      {
+        "id": "pv-corn-cercospora-leaf-spot-gray-leaf-spot",
+        "nama": "Cercospora / Gray Leaf Spot",
+        "simptom": "Bintik kelabu memanjang",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Varieti tahan; fungisan",
+        "plantVillageLabel": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-corn-common-rust",
+        "nama": "Common Rust (Karat)",
+        "simptom": "Pustul jingga pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; varieti tahan",
+        "plantVillageLabel": "Corn___Common_rust",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-corn-healthy",
+        "nama": "Daun Sihat (Jagung)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Corn___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-corn-northern-leaf-blight",
+        "nama": "Northern Leaf Blight",
+        "simptom": "Lesion memanjang coklat",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; rotasi",
+        "plantVillageLabel": "Corn___Northern_Leaf_Blight",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      }
+    ],
+    "rockmelon": [
+      {
+        "id": "pv-grape-black-rot",
+        "nama": "Grape Black Rot",
+        "simptom": "Bintik cekung hitam pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid kuprum",
+        "plantVillageLabel": "Grape___Black_rot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-grape-esca-black-measles-",
+        "nama": "Esca (Black Measles)",
+        "simptom": "Daun layu, bintik pada batang",
+        "tahapRisiko": "tinggi",
+        "tindakan": "Pangkas; sanitasi",
+        "plantVillageLabel": "Grape___Esca_(Black_Measles)",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-grape-healthy",
+        "nama": "Daun Sihat (Anggur)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Grape___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-grape-leaf-blight-isariopsis-leaf-spot-",
+        "nama": "Isariopsis Leaf Spot",
+        "simptom": "Bintik coklat pada daun",
+        "tahapRisiko": "rendah",
+        "tindakan": "Fungisid",
+        "plantVillageLabel": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      }
+    ],
+    "limau-purut": [
+      {
+        "id": "pv-orange-haunglongbing-citrus-greening-",
+        "nama": "Huanglongbing (Citrus Greening)",
+        "simptom": "Daun kuning tidak seragam, buah kecil",
+        "tahapRisiko": "tinggi",
+        "tindakan": "Kawalan vektor psylla; pokok dijangkiti dibuang",
+        "plantVillageLabel": "Orange___Haunglongbing_(Citrus_greening)",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      }
+    ],
+    "cili-merah": [
+      {
+        "id": "pv-pepper-bell-bacterial-spot",
+        "nama": "Bacterial Spot (Cili)",
+        "simptom": "Bintik berminyak pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Racun kuprum; benih sihat",
+        "plantVillageLabel": "Pepper,_bell___Bacterial_spot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-pepper-bell-healthy",
+        "nama": "Daun Sihat (Cili)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Pepper,_bell___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      }
+    ],
+    "cili-padi": [
+      {
+        "id": "pv-pepper-bell-bacterial-spot",
+        "nama": "Bacterial Spot (Cili)",
+        "simptom": "Bintik berminyak pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Racun kuprum; benih sihat",
+        "plantVillageLabel": "Pepper,_bell___Bacterial_spot",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-pepper-bell-healthy",
+        "nama": "Daun Sihat (Cili)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Pepper,_bell___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      }
+    ],
+    "ubi-kentang": [
+      {
+        "id": "pv-potato-early-blight",
+        "nama": "Early Blight",
+        "simptom": "Bintik coklat berkoncentrik",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; rotasi",
+        "plantVillageLabel": "Potato___Early_blight",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      },
+      {
+        "id": "pv-potato-healthy",
+        "nama": "Daun Sihat (Kentang)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Potato___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      },
+      {
+        "id": "pv-potato-late-blight",
+        "nama": "Late Blight (Hawar Belakang)",
+        "simptom": "Bercak hitam lembap pada daun",
+        "tahapRisiko": "tinggi",
+        "tindakan": "Fungisid sistemik segera",
+        "plantVillageLabel": "Potato___Late_blight",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      }
+    ],
+    "kacang-tanah": [
+      {
+        "id": "pv-soybean-healthy",
+        "nama": "Daun Sihat (Kacang Soja)",
+        "simptom": "Tiada simptom",
+        "tahapRisiko": "rendah",
+        "tindakan": "Teruskan pemantauan",
+        "plantVillageLabel": "Soybean___healthy",
+        "sumber": "plantvillage",
+        "isHealthy": true,
+        "pemicu": []
+      }
+    ],
+    "labu-manis": [
+      {
+        "id": "pv-squash-powdery-mildew",
+        "nama": "Powdery Mildew (Labu)",
+        "simptom": "Serbuk putih pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; jarak tanam",
+        "plantVillageLabel": "Squash___Powdery_mildew",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      }
+    ],
+    "labu-kuning": [
+      {
+        "id": "pv-squash-powdery-mildew",
+        "nama": "Powdery Mildew (Labu)",
+        "simptom": "Serbuk putih pada daun",
+        "tahapRisiko": "sederhana",
+        "tindakan": "Fungisid; jarak tanam",
+        "plantVillageLabel": "Squash___Powdery_mildew",
+        "sumber": "plantvillage",
+        "isHealthy": false,
+        "pemicu": [
+          "hujan",
+          "kelembapan"
+        ]
+      }
+    ]
+  },
+  "labels": [
+    "Apple___Apple_scab",
+    "Apple___Black_rot",
+    "Apple___Cedar_apple_rust",
+    "Apple___healthy",
+    "Blueberry___healthy",
+    "Cherry___healthy",
+    "Cherry___Powdery_mildew",
+    "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+    "Corn___Common_rust",
+    "Corn___healthy",
+    "Corn___Northern_Leaf_Blight",
+    "Grape___Black_rot",
+    "Grape___Esca_(Black_Measles)",
+    "Grape___healthy",
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "Orange___Haunglongbing_(Citrus_greening)",
+    "Peach___Bacterial_spot",
+    "Peach___healthy",
+    "Pepper,_bell___Bacterial_spot",
+    "Pepper,_bell___healthy",
+    "Potato___Early_blight",
+    "Potato___healthy",
+    "Potato___Late_blight",
+    "Raspberry___healthy",
+    "Soybean___healthy",
+    "Squash___Powdery_mildew",
+    "Strawberry___healthy",
+    "Strawberry___Leaf_scorch",
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___healthy",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Spider_mites Two-spotted_spider_mite",
+    "Tomato___Target_Spot",
+    "Tomato___Tomato_mosaic_virus",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+  ]
+}
